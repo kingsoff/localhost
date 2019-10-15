@@ -1,0 +1,9 @@
+sudo: false
+
+language: php
+
+  
+
+branches:
+  only:
+    - master
