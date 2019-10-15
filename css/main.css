@@ -1,0 +1,9 @@
+/* Please do not use this import in production. You could download this font from here https://fontstorage.com/font/bilbo */
+@import "http://fonts.fontstorage.com/import/bilbo.css";
+/*
+	Bilbo, 400
+*/
+p{
+    font-size: 20px;
+    font-family: Bilbo;
+}

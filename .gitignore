@@ -1,0 +1,5 @@
+# folder ide
+.idea/
+
+#folder + file
+docs/*.txt
