@@ -9,7 +9,7 @@
     $arr2 =array(
         'name' => 'Vasilii',
         2 => array('school','dsdasd')
-    ); //асоциативный массив
+    ); //асоциативный массив лол
     echo $arr2[2][0];
 
 $j = true;
